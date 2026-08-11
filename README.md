@@ -1,20 +1,20 @@
-# Python Text Editor - My Text Editing software
+# Python Text Editor - My Text Editing Software
 
 This project built on Python, can:
 
-- 📝 **Alter texts** (Add, Delete, Replace Characters)
+- 📝  **Alter texts** (Add, Delete, Replace Characters)
   
-- 🔐 **Encrypt Text** (Uses the Numeric and Caesar Cipher)
+- 🔐  **Encrypt Text** (Uses the Numeric and Caesar Cipher)
   
-- 🔎 Use **Searching Algorithms** to scan vast texts
+- 🔎  Use **Searching Algorithms** to scan vast texts
   
-- ⚠️ detect **AI-generated** text
+- ⚠️  **detect AI-generated** text
   
-- 📈 **visualize data** with Matplotlib
+- 📈  **visualize data** with Matplotlib
 
-- 📊 generate **random text** from Unicode characters
+- 📊  generate **random text** from Unicode characters
   
-- 📂 Handle and create files 
+- 📂  **Handle and create** files 
 
 ## How to Use The Project?
 

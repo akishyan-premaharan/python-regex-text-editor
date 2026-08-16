@@ -29,15 +29,13 @@ For file handling & saving, you should use an IDE, specifically.
 
 | Name | Usage |
 |---|---|
-| ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | Makes a transcript of user text and saves it as a .csv file 
-| ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | **Visualizes text data** (Amount of Words/Numbers/Special Characters, and percentage of words detected as AI written) via pie charts|
+|![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)| Makes a transcript of user text and saves it as a .csv file 
+|![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)| **Visualizes text data** (Amount of Words/Numbers/Special Characters, and percentage of words detected as AI written) via pie charts|
 |![Regular Expressions](https://img.shields.io/badge/Regular‎%20Expressions-5277C3.svg?style=for-the-badge&logo=regular-expressions&logoColor=blue) | Helps **alter** and **search** text faster than vanilla Python code|
-| ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black) | The IDE for the project |
-| ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Was used via Colab |
+|![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black)| The IDE for the project |
+|![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)| Was used via Colab |
 |![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)|Used via Colab|
-| ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) | The project's language |
-
-  
-
+|![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)| The project's language |
+|[![Pythoncomplier.io](https://img.shields.io/badge/pythoncompiler.io-1B2A3A?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pythoncompiler.io/)| Used for learning Pandas dataframes via snippets|
 
 

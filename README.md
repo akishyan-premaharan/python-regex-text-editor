@@ -1,4 +1,4 @@
-# Python Text Editor - My Text Editing Software
+# Python Text Editor - Command Line Text Editing & Analysis 
 
 This project built on Python, can:
 
@@ -14,7 +14,9 @@ This project built on Python, can:
 
 - 📊  generate **random** text
   
-- 📂  **Handle and create** files 
+- 📂  **Handle and create** files
+
+- 🔀  **Clean control flow** with switch statements instead of large-scale boolean statements
 
 ## How to Use The Project?
 
@@ -29,7 +31,7 @@ For file handling & saving, you should use an IDE, specifically.
 
 | Name | Usage |
 |---|---|
-|![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)| Makes a transcript of user text and saves it as a .csv file 
+|![Polars](https://img.shields.io/badge/polars-%230075ff.svg?style=for-the-badge&logo=polars&logoColor=white)| Creates a transcript of user text and saves it as a .csv file 
 |![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)| **Visualizes text data** (Amount of Words/Numbers/Special Characters, and percentage of words detected as AI written) via pie charts|
 |![Regular Expressions](https://img.shields.io/badge/Regular‎%20Expressions-5277C3.svg?style=for-the-badge&logo=regular-expressions&logoColor=blue) | Helps **alter** and **search** text faster than vanilla Python code|
 |![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black)| The IDE for the project |
